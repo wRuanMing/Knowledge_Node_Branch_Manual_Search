@@ -1,0 +1,5 @@
+{
+  "name": "NeuroPath: Knowledge Explorer",
+  "description": "An interactive 8-step knowledge adventure where you navigate through branching topics to create a unique knowledge graph using Gemini AI.",
+  "requestFramePermissions": []
+}
